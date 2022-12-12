@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    display: flex;
+    width: 70vw;
+    height: 40vw;
+}
+
+.emoji {
+    width: 20px;
+    height: 20px;
+}
